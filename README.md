@@ -2,7 +2,7 @@
 
 ## O que é este projeto?
 
-Este projeto é a construçao do jogo conhecido como Flappy Bird.
+Este projeto é a construçao do jogo conhecido como Flappy Bird durante o curso da Cod3er - Web moderno completo com JavaScript.
 
 ## O que ele faz? 
 
